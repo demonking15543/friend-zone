@@ -49,7 +49,7 @@ Friend Zone is a full-stack chat application built using the MERN (MongoDB, Expr
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/demonking15543/Friend Zone.git
+   git clone https://github.com/demonking15543/friend-zone.git
    cd Friend Zone
    ```
 
